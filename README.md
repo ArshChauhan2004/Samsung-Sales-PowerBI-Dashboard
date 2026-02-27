@@ -31,10 +31,13 @@ The goal was to transform raw structured data into an interactive executive-leve
 ---
 
 ## Tools & Technologies
-- Power BI  
-- DAX  
-- Data Modeling  
-- Data Cleaning  
+- Power BI (Data Visualization & Dashboarding)
+
+- DAX (Calculated Measures & KPI Computation)
+
+- Data Modeling (Relationships & Aggregations)
+
+- Data Cleaning & Transformation
 
 ---
 
